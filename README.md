@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mashinsp
+- 👋 Hi, I’m @Mash
 - 👀 I’m interested in DAPP dev, Smart Contract Dev, Software Dev.
 - 🌱 I’m currently learning Blockchain, Software Engineering, ETH.
 - 📫 How to reach me @ mediafire334@gmail.com .
