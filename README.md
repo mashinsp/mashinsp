@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Mash
-- 👀 I’m interested in DAPP dev, Smart Contract Dev, Software Dev.
-- 🌱 I’m currently learning Blockchain, Software Engineering, ETH.
-- 📫 How to reach me @ mediafire334@gmail.com .
+19 | Student | Software Engineering | Blockchain | C++ | React | Javascript | Solidity | Learning World's Tech |
