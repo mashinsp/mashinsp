@@ -1,1 +1,2 @@
-19 | Student | Software Engineering | Blockchain | C++ | React | Javascript | Solidity | Learning World's Tech |
+:classical_building: 19 | Student | Software Engineering | Blockchain | C++ | React | Javascript | DAPP | Solidity 
+🌎 Learning World's Tech 
