@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NFT Marketplace**
 
-- 🌱 I’m currently learning **React.js, Blockchain etc**
+- 🌱 I’m currently learning **Solidity, Blockchain etc**
 
 - 📫 How to reach me **mediafire334@gmail.com**
 
