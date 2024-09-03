@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud, Containers etc**
 
-- 📫 How to reach me **mediafire334@gmail.com**
+- 📫 How to reach me **syedmashood334@gmail.com**
 
 - ⚡ Fun fact **Always open to new technology**
 
