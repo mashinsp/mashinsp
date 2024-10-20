@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mashood</h1>
 <h3 align="center">Developer 📊 by the way of Software Engineering 👨🏼‍💻</h3>
 
-- 🔭 I’m currently working on **NFT Marketplace**
+- 🔭 I’m currently working on **AI-Arch**
 
 - 🌱 I’m currently learning **Cloud, Containers etc**
 
