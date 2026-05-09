@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Engineer · Building production systems in Python, Java & TypeScript</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-mashood-ul-hassaan-6149721b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/mashinsp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syedmashood334@gmail.com">
@@ -16,7 +16,6 @@
 
 - **[NaqlaAI](https://github.com/mashinsp)** — AI-powered logistics SaaS for the Saudi/GCC market · Spring Boot · LangChain4j · Next.js · AWS
 - **LinkVault** — Production-grade URL shortener with Redis caching, cache-aside pattern, async event pipeline & Alembic migrations
-- Applying to **MSc CS/AI programs in Europe** (Sapienza University of Rome — top choice, 2026–27)
 
 ---
 
@@ -77,7 +76,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashinsp&show_icons=true&locale=en&layout=compact&theme=dark" alt="mashinsp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashinsp&theme=dark&show_icons=true" alt="mashinsp" />
 </p>
 
 ---
